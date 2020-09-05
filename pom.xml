@@ -9,4 +9,9 @@
     <version>1.0-SNAPSHOT</version>
 
 
+    <properties>
+        <mysql.version>1.0</mysql.version>
+    </properties>
+
+
 </project>
