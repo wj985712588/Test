@@ -12,7 +12,7 @@
     <properties>
         <mysql.version>2.0</mysql.version>
         <gitee.version>2.0</gitee.version>
-        <github.version>2.0</github.version>
+        <github.version>3.0</github.version>
     </properties>
 
 
