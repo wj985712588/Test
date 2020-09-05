@@ -10,7 +10,7 @@
 
 
     <properties>
-        <mysql.version>1.0</mysql.version>
+        <mysql.version>2.0</mysql.version>
     </properties>
 
 
